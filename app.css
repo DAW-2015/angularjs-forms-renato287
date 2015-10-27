@@ -1,0 +1,6 @@
+.css-form input.ng-invalid {
+	background-color: red;
+}
+.css-form input.ng-dirty {
+	font-weight: bold;
+}
